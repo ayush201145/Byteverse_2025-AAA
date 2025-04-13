@@ -607,7 +607,7 @@ function App() {
                 onClick={handleRealtimeRedirect}
                 aria-label="Explore real-time traffic prediction"
               >
-                Explore Now
+                Traffic Prediction Web App
               </button>
             </div>
             <div className="card-image-placeholder">
@@ -638,7 +638,7 @@ function App() {
                 onClick={handleAccidentRedirect}
                 aria-label="Explore accident detection"
               >
-                Explore Now
+                Accident Detection Web App
               </button>
             </div>
             <div className="card-image-placeholder">
